@@ -1,0 +1,6 @@
+package com.nfc.cardlib.response;
+
+public enum TransactionStatus {
+    APPROVED,DECLINED,ONLINE_REQUEST,END_APPLICATION,TRY_AGAIN,SELECT_NEXT,TRY_ANOTHER_INTERFACE,NA,ABORTED
+
+}
